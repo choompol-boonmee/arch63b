@@ -8,3 +8,10 @@
 
 7. CLIP7 <https://www.youtube.com/watch?v=MUhaCMMvGl4>
 
+วันที่ 16 มี.ค.
+ให้ นศ. ไปโหลดโปรแกรมมาติดตั้ง เพื่อใช้ในการเรียน
+
+mortbopet/Ripes
+https://github.com/mortbopet/Ripes
+
+
